@@ -20,4 +20,4 @@ follow these steps
 8) Click Allow and you should get redirected back to the OAuth page. Now go to Step 2 of the sidebar on the left and press Exchange          authorization code for tokens.
    This should populate the two boxes below called Refresh token and Access token with a couple of strings. Copy down the Refresh token as    we’ll need it for later!
 
-9) Add these information into program.js file and you are good to send email ... 
+9) Add these information into program.js file and you are good to go.
