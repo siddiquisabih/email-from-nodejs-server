@@ -34,11 +34,6 @@ const smtpTransport = nodemailer.createTransport({
     }
 });
 
-//<img src="logo.png" style="height: 30%;width: 30%" alt="Coin Grace" href="./logo.png">
- 
- 
-
-
 const mailOptions = {
     from: "me@gmail.com", //sender email
     to: "someone@expample.com", //receiver email
